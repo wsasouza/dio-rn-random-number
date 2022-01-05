@@ -23,7 +23,7 @@ const App = () => {
 
 const style = StyleSheet.create({
   container: {
-    backgroundColor: '#191970',
+    backgroundColor: '#060e23',
     flex: 1,
     justifyContent: 'center',
     padding: 24,
@@ -37,7 +37,7 @@ const style = StyleSheet.create({
     fontWeight: '600',
   },
   button: {
-    backgroundColor: '#ff8c00',
+    backgroundColor: '#f45e0a',
     padding: 16,
     borderRadius: 8,
   },
